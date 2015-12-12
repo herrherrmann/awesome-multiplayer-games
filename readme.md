@@ -10,10 +10,13 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Call of Duty 4: Modern Warfare
 - Quake III: Arena
 - Unreal Tournament (2004)
+- Battlefield 1942 / Vietnam
 - Star Wars: Battlefront (Original)
 - [The Mean Greens](http://www.themeangreens.com)
+- Halo
 - F.E.A.R. (Combat)
 - Left 4 Dead
+- Serious Sam
 - [Warsow*](https://www.warsow.gg)
 
 ## Action
@@ -26,9 +29,11 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
     - Classic Maps
     - Tower Defense Maps
     - DOTA
+- Starcraft
 - Dawn of War
 - Command and Conquer
 - Supreme Commander
+- Stronghold
 
 ## Role-Playing Games
 - Diablo II

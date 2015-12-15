@@ -48,6 +48,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [Broforce](http://www.broforcegame.com)
 - [Cortex Command](http://www.datarealms.com/games.php)
 - [BlazeRush](http://blazerush.com)
+- [Hidden in plain Sight](http://store.steampowered.com/app/303590)
 
 ## Other
 - Worms: Armageddon

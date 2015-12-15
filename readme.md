@@ -53,4 +53,5 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Worms: Armageddon
 - [Blobby Volley*](http://blobby.sourceforge.net)
 - [Armagetron Advanced*](http://armagetronad.org)
-- [Rocket League](http://rocketleague.psyonix.com/)
+- [Rocket League](http://rocketleague.psyonix.com)
+- [TetriNet](http://tetrinet.info)

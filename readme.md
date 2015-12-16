@@ -8,7 +8,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Team Fortress 2
 - Day of Defeat: Source
 - Call of Duty 4: Modern Warfare
-- Quake III: Arena
+- Quake III: Arena / [Quake Live](http://www.quakelive.com)
 - Unreal Tournament (2004)
 - Battlefield 1942 / Vietnam
 - Star Wars: Battlefront (Original)

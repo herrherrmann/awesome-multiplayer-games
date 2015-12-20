@@ -8,20 +8,18 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Team Fortress 2
 - Day of Defeat: Source
 - Call of Duty 4: Modern Warfare
-- Quake III: Arena / [Quake Live](http://www.quakelive.com)
-- Unreal Tournament (2004)
 - Battlefield 1942 / Vietnam
 - Star Wars: Battlefront (Original)
-- [The Mean Greens](http://www.themeangreens.com)
+- Quake III: Arena / [Quake Live](http://www.quakelive.com) / [Xonotic*](http://www.xonotic.org)
+- Unreal Tournament (2004)
 - Halo
 - F.E.A.R. (Combat)
 - Left 4 Dead
-- Serious Sam
-- [Warsow*](https://www.warsow.gg)
-
-## Action
+- Serious Sam 1/2
+- [The Mean Greens](http://www.themeangreens.com)
 - Splinter Cell: Chaos Theory (LAN mode?)
 - Jedi Knight: Jedi Academy
+- [Soldat*](http://soldat.pl/en)
 
 ## Strategy
 - Age of Empires II (HD)
@@ -34,12 +32,22 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Command and Conquer
 - Supreme Commander
 - Stronghold
+- Jagged Alliance
 
 ## Role-Playing Games
 - Diablo II
-- Dungeon Siege
+- Dungeon Siege I/II
+- Baldur's Gate I/II
 - Neverwinter Nights
-- Heroes of Might & Magic
+- Icewind Dale
+- Heroes of Might & Magic 5
+- Freelancer
+- [Project Zomboid](http://www.projectzomboid.com)
+
+## Racing
+- Flatout
+- [Armagetron Advanced*](http://armagetronad.org)
+- [Rocket League](http://rocketleague.psyonix.com)
 
 ## Local Multiplayer
 - [TowerFall Ascension](http://www.towerfall-game.com)
@@ -49,10 +57,9 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [Cortex Command](http://www.datarealms.com/games.php)
 - [BlazeRush](http://blazerush.com)
 - [Hidden in plain Sight](http://store.steampowered.com/app/303590)
+- [Blobby Volley*](http://blobby.sourceforge.net)
 
 ## Other
 - Worms: Armageddon
-- [Blobby Volley*](http://blobby.sourceforge.net)
-- [Armagetron Advanced*](http://armagetronad.org)
-- [Rocket League](http://rocketleague.psyonix.com)
 - [TetriNet*](http://tetrinet.info)
+- [Garry's Mod](http://www.garrysmod.com)

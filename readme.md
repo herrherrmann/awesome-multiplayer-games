@@ -2,7 +2,7 @@
 Awesome games for LAN parties or just local multiplayer sessions with 2-4 players. Games with asterisks are free.  
 *Pull Requests welcome!*
 
-## Shooter
+## 🔫 Shooter
 - Counter-Strike
 - Half-Life 2: Deathmatch
 - Team Fortress 2
@@ -21,7 +21,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Jedi Knight: Jedi Academy
 - [Soldat*](http://soldat.pl/en)
 
-## Strategy
+## ♔ Strategy
 - Age of Empires II (HD)
 - Warcraft III
     - Classic Maps
@@ -34,7 +34,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Stronghold
 - Jagged Alliance
 
-## Role-Playing Games
+## 🍴 Role-Playing Games
 - Diablo II
 - Dungeon Siege I/II
 - Baldur's Gate I/II
@@ -44,12 +44,12 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Freelancer
 - [Project Zomboid](http://www.projectzomboid.com)
 
-## Racing
+## 🚗 Racing
 - Flatout
 - [Armagetron Advanced*](http://armagetronad.org)
 - [Rocket League](http://rocketleague.psyonix.com)
 
-## Local Multiplayer
+## 📺 Local Multiplayer
 - [TowerFall Ascension](http://www.towerfall-game.com)
 - [Crawl](http://www.powerhoof.com/crawl)
 - [Gang Beasts](https://gangbeasts.com)

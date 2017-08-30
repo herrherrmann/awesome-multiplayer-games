@@ -3,7 +3,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 *Pull Requests welcome!*
 
 ## 🔫 Shooter
-- Counter-Strike
+- Counter-Strike (1.6/Source/Global Offensive)
 - Half-Life 2: Deathmatch
 - Team Fortress 2
 - Day of Defeat: Source
@@ -45,17 +45,29 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [Project Zomboid](http://www.projectzomboid.com)
 
 ## 🚗 Racing
-- Flatout
-- [Armagetron Advanced*](http://armagetronad.org)
 - [Rocket League](http://rocketleague.psyonix.com)
+- Flatout
+- DiRT 3
+- [Armagetron Advanced*](http://armagetronad.org)
 
 ## 📺 Local Multiplayer
+- [Genital Jousting](http://freelives.net/games/genital-jousting)
+- [Mount Your Friends](http://store.steampowered.com/app/296470/Mount_Your_Friends)
+- [Crypt of the Necrodancer](http://necrodancer.com)
+- [Who's Your Daddy](http://store.steampowered.com/app/427730/Whos_Your_Daddy)
 - [TowerFall Ascension](http://www.towerfall-game.com)
+- [Awesomenauts](https://www.awesomenauts.com) (free2play)
 - [Crawl](http://www.powerhoof.com/crawl)
 - [Gang Beasts](https://gangbeasts.com)
+- [Brawlhalla](http://www.brawlhalla.com) (free2play)
 - [Broforce](http://www.broforcegame.com)
 - [Cortex Command](http://www.datarealms.com/games.php)
+- [SpeedRunners](http://www.tinybuild.com/speedrunners)
 - [BlazeRush](http://blazerush.com)
+- [TrackMania Turbo](https://www.ubisoft.com/en-us/game/trackmania-turbo)
+- [HOARD](http://store.steampowered.com/app/63000/HOARD)
+- [Screencheat](http://samuraipunk.com/screencheat/)
+- [Oh...Sir!! The Insult Simulator](http://vilemonarch.com/oh-sir-insult)
 - [Hidden in plain Sight](http://store.steampowered.com/app/303590)
 - [Blobby Volley*](http://blobby.sourceforge.net)
 

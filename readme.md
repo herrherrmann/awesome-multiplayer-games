@@ -8,7 +8,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Team Fortress 2
 - Day of Defeat: Source
 - Call of Duty 4: Modern Warfare
-- Battlefield 1942 / Vietnam
+- Battlefield 1942 / Vietnam / 2
 - Star Wars: Battlefront (Original)
 - Quake III: Arena / [Quake Live](http://www.quakelive.com) / [Xonotic*](http://www.xonotic.org)
 - Unreal Tournament (2004)
@@ -20,6 +20,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Splinter Cell: Chaos Theory (LAN mode?)
 - Jedi Knight: Jedi Academy
 - [Soldat*](http://soldat.pl/en)
+- The Ship
 
 ## ♔ Strategy
 - Age of Empires II (HD)
@@ -46,9 +47,10 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 
 ## 🚗 Racing
 - [Rocket League](http://rocketleague.psyonix.com)
-- Flatout
+- Flatout (2)
 - DiRT 3
 - [Armagetron Advanced*](http://armagetronad.org)
+- Trackmania Nations
 
 ## 📺 Local Multiplayer
 - [Genital Jousting](http://freelives.net/games/genital-jousting)

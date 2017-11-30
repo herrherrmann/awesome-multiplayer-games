@@ -21,6 +21,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Jedi Knight: Jedi Academy
 - [Soldat*](http://soldat.pl/en)
 - The Ship
+- [Pirates, Vikings and Knights II](http://store.steampowered.com/app/17570/Pirates_Vikings_and_Knights_II/)
 
 ## ♔ Strategy
 - Age of Empires II (HD)
@@ -28,6 +29,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
     - Classic Maps
     - Tower Defense Maps
     - DOTA
+    - Defence maps (X-Hero Siege, Enfo's)
 - Starcraft
 - Dawn of War
 - Command and Conquer
@@ -75,5 +77,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 
 ## Other
 - Worms: Armageddon
+- [Hedgewars](http://www.hedgewars.org/)
 - [TetriNet*](http://tetrinet.info)
 - [Garry's Mod](http://www.garrysmod.com)
+- Dota 2 Custom maps (Almost the same as in WC3)

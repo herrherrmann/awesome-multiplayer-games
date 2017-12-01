@@ -33,8 +33,13 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Starcraft
 - Dawn of War
 - Command and Conquer
+- SpringRTS
+    - Balanced Annihilation
+    - Zero-K
+    - Spring: 1944
 - Supreme Commander
 - Stronghold
+- Total Annihilation
 - Jagged Alliance
 
 ## 🍴 Role-Playing Games
@@ -51,6 +56,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [Rocket League](http://rocketleague.psyonix.com)
 - Flatout (2)
 - DiRT 3
+- Live for Speed
 - [Armagetron Advanced*](http://armagetronad.org)
 - Trackmania Nations
 

@@ -87,3 +87,4 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [TetriNet*](http://tetrinet.info)
 - [Garry's Mod](http://www.garrysmod.com)
 - Dota 2 Custom maps (Almost the same as in WC3)
+- Minecraft

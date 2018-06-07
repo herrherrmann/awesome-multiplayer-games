@@ -5,7 +5,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 ## 🔫 Shooter
 - Counter-Strike (1.6/Source/Global Offensive)
 - Half-Life 2: Deathmatch
-- Team Fortress 2
+- Team Fortress 2*
 - Day of Defeat: Source
 - Call of Duty 4: Modern Warfare
 - Battlefield 1942 / Vietnam / 2
@@ -22,6 +22,8 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [Soldat*](http://soldat.pl/en)
 - The Ship
 - [Pirates, Vikings and Knights II](http://store.steampowered.com/app/17570/Pirates_Vikings_and_Knights_II/)
+- Fistful of Frags*
+- Openarena*
 
 ## ♔ Strategy
 - Age of Empires II (HD)
@@ -41,6 +43,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Stronghold
 - Total Annihilation
 - Jagged Alliance
+- 0 A.D.*
 
 ## 🍴 Role-Playing Games
 - Diablo II

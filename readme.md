@@ -35,10 +35,11 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Starcraft
 - Dawn of War
 - Command and Conquer
-- SpringRTS
-    - Balanced Annihilation
-    - Zero-K
-    - Spring: 1944
+- [SpringRTS*](https://springrts.com/)
+    - [Balanced Annihilation*](https://balancedannihilation.com/)
+    - [Evolution RTS*](https://www.evolutionrts.info/)
+    - [Spring: 1944*](http://spring1944.net/)
+    - [Zero-K*](https://zero-k.info/)    
 - Supreme Commander
 - Stronghold
 - Total Annihilation
@@ -59,7 +60,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [Rocket League](http://rocketleague.psyonix.com)
 - Flatout (2)
 - DiRT 3
-- Live for Speed
+- [Live for Speed](https://www.lfs.net/)
 - [Armagetron Advanced*](http://armagetronad.org)
 - Trackmania Nations
 
@@ -91,3 +92,4 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [Garry's Mod](http://www.garrysmod.com)
 - Dota 2 Custom maps (Almost the same as in WC3)
 - Minecraft
+- [Factorio](https://www.factorio.com/)

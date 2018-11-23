@@ -65,6 +65,8 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Trackmania Nations
 
 ## 📺 Local Multiplayer
+- [Enter the Gungeon](http://dodgeroll.com/gungeon)
+- [Nuclear Throne](http://nuclearthrone.com)
 - [Genital Jousting](http://freelives.net/games/genital-jousting)
 - [Mount Your Friends](http://store.steampowered.com/app/296470/Mount_Your_Friends)
 - [Crypt of the Necrodancer](http://necrodancer.com)

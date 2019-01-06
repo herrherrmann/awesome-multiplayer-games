@@ -14,16 +14,18 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Unreal Tournament (2004)
 - Halo
 - F.E.A.R. (Combat)
-- Left 4 Dead
+- [Left 4 Dead](https://store.steampowered.com/app/500/Left_4_Dead/)
+- [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)
 - Serious Sam 1/2
 - [The Mean Greens](http://www.themeangreens.com)
 - Splinter Cell: Chaos Theory (LAN mode?)
 - Jedi Knight: Jedi Academy
 - [Soldat*](http://soldat.pl/en)
-- The Ship
+- [The Ship](https://store.steampowered.com/app/2400/The_Ship_Murder_Party/)
 - [Pirates, Vikings and Knights II](http://store.steampowered.com/app/17570/Pirates_Vikings_and_Knights_II/)
-- Fistful of Frags*
-- Openarena*
+- [Fistful of Frags*](https://store.steampowered.com/app/265630/Fistful_of_Frags/)
+- [Openarena*](http://www.openarena.ws)
+- [TeeWorlds*](https://www.teeworlds.com/)
 
 ## ♔ Strategy
 - Age of Empires II (HD)
@@ -45,6 +47,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Total Annihilation
 - Jagged Alliance
 - 0 A.D.*
+- [OpenRA*](https://www.openra.net/)
 
 ## 🍴 Role-Playing Games
 - Diablo II

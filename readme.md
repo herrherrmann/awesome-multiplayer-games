@@ -70,6 +70,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 ## 📺 Local Multiplayer
 - [Enter the Gungeon](http://dodgeroll.com/gungeon)
 - [Nuclear Throne](http://nuclearthrone.com)
+- [Lovers in a Dangerous Spacetime](https://www.loversinadangerousspacetime.com)
 - [Genital Jousting](http://freelives.net/games/genital-jousting)
 - [Mount Your Friends](http://store.steampowered.com/app/296470/Mount_Your_Friends)
 - [Crypt of the Necrodancer](http://necrodancer.com)
@@ -79,6 +80,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [Crawl](http://www.powerhoof.com/crawl)
 - [Gang Beasts](https://gangbeasts.com)
 - [Brawlhalla](http://www.brawlhalla.com) (free2play)
+- [Tooth and Tail](http://www.toothandtailgame.com)
 - [Broforce](http://www.broforcegame.com)
 - [Cortex Command](http://www.datarealms.com/games.php)
 - [SpeedRunners](http://www.tinybuild.com/speedrunners)

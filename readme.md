@@ -66,6 +66,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [Live for Speed](https://www.lfs.net/)
 - [Armagetron Advanced*](http://armagetronad.org)
 - Trackmania Nations
+- [SuperTuxKart*](https://supertuxkart.net)
 
 ## 📺 Local Multiplayer
 - [Enter the Gungeon](http://dodgeroll.com/gungeon)

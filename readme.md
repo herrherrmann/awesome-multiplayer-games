@@ -3,22 +3,28 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 *Pull Requests welcome!*
 
 ## 🔫 Shooter
-- Counter-Strike (1.6/Source/Global Offensive)
+- Counter-Strike (1.6)
+- Counter-Strike: Source
+- Counter-Strike: Global Offensive
 - Half-Life 2: Deathmatch
 - Team Fortress 2*
 - Day of Defeat: Source
 - Call of Duty 4: Modern Warfare
-- Battlefield 1942 / Vietnam / 2
+- Battlefield 1942
+- Battlefield Vietnam
+- Battlefield 2
 - Star Wars: Battlefront (Original)
-- Quake III: Arena / [Quake Live](http://www.quakelive.com) / [Xonotic*](http://www.xonotic.org)
+- Quake III: Arena
+- [Quake Live](http://www.quakelive.com)
+- [Xonotic*](http://www.xonotic.org)
 - Unreal Tournament (2004)
 - Halo
-- F.E.A.R. (Combat)
+- [F.E.A.R. Combat*](https://fearcombat.org)
 - [Left 4 Dead](https://store.steampowered.com/app/500/Left_4_Dead/)
 - [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)
 - Serious Sam 1/2
 - [The Mean Greens](http://www.themeangreens.com)
-- Splinter Cell: Chaos Theory (LAN mode?)
+- Splinter Cell: Chaos Theory
 - Jedi Knight: Jedi Academy
 - [Soldat*](http://soldat.pl/en)
 - [The Ship](https://store.steampowered.com/app/2400/The_Ship_Murder_Party/)
@@ -51,8 +57,8 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 
 ## 🍴 Role-Playing Games
 - Diablo II
-- Dungeon Siege I/II
-- Baldur's Gate I/II
+- Dungeon Siege
+- Baldur's Gate
 - Neverwinter Nights
 - Icewind Dale
 - Heroes of Might & Magic 5
@@ -61,11 +67,12 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 
 ## 🚗 Racing
 - [Rocket League](http://rocketleague.psyonix.com)
-- Flatout (2)
+- Flatout
+- Flatout 2
 - DiRT 3
 - [Live for Speed](https://www.lfs.net/)
 - [Armagetron Advanced*](http://armagetronad.org)
-- Trackmania Nations
+- Trackmania Nations Forever*
 - [SuperTuxKart*](https://supertuxkart.net)
 
 ## 📺 Local Multiplayer

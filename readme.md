@@ -41,6 +41,8 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
     - Tower Defense Maps
     - DOTA
     - Defence maps (X-Hero Siege, Enfo's)
+- [Dota 2](https://dota2.com)
+    - Dota 2 Custom maps (almost the same as in WC3)
 - Starcraft
 - Dawn of War
 - Command and Conquer
@@ -85,10 +87,10 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [Crypt of the Necrodancer](http://necrodancer.com)
 - [Who's Your Daddy](http://store.steampowered.com/app/427730/Whos_Your_Daddy)
 - [TowerFall Ascension](http://www.towerfall-game.com)
-- [Awesomenauts](https://www.awesomenauts.com) (free2play)
+- [Awesomenauts*](https://www.awesomenauts.com)
 - [Crawl](http://www.powerhoof.com/crawl)
 - [Gang Beasts](https://gangbeasts.com)
-- [Brawlhalla](http://www.brawlhalla.com) (free2play)
+- [Brawlhalla*](http://www.brawlhalla.com)
 - [Tooth and Tail](http://www.toothandtailgame.com)
 - [Broforce](http://www.broforcegame.com)
 - [Cortex Command](http://www.datarealms.com/games.php)
@@ -103,9 +105,8 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 
 ## Other
 - Worms: Armageddon
-- [Hedgewars](http://www.hedgewars.org/)
+- [Hedgewars](http://www.hedgewars.org)
 - [TetriNet*](http://tetrinet.info)
 - [Garry's Mod](http://www.garrysmod.com)
-- Dota 2 Custom maps (Almost the same as in WC3)
 - Minecraft
-- [Factorio](https://www.factorio.com/)
+- [Factorio](https://www.factorio.com)

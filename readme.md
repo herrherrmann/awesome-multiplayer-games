@@ -22,7 +22,8 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [F.E.A.R. Combat*](https://fearcombat.org)
 - [Left 4 Dead](https://store.steampowered.com/app/500/Left_4_Dead/)
 - [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)
-- Serious Sam 1/2
+- Serious Sam
+- Serious Sam 2
 - [The Mean Greens](http://www.themeangreens.com)
 - Splinter Cell: Chaos Theory
 - Jedi Knight: Jedi Academy

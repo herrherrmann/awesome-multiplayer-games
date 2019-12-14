@@ -77,6 +77,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [Armagetron Advanced*](http://armagetronad.org)
 - Trackmania Nations Forever*
 - [SuperTuxKart*](https://supertuxkart.net)
+- [Achtung, die Kurve!](https://achtungdiekurve.net)
 
 ## 📺 Local Multiplayer
 - [Enter the Gungeon](http://dodgeroll.com/gungeon)

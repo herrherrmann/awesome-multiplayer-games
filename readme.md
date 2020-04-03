@@ -84,6 +84,8 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [Nuclear Throne](http://nuclearthrone.com)
 - [Magicka](https://www.paradoxplaza.com/magicka/MAMA01GSK-MASTER.html)
 - [Magicka 2](https://www.paradoxplaza.com/magicka-2/MAMA02GSK-MASTER.html)
+- [Unravel Two](https://www.ea.com/games/unravel/unravel-two)
+- [Trine](https://trinegame.com)
 - [Lovers in a Dangerous Spacetime](https://www.loversinadangerousspacetime.com)
 - [Regular Human Basketball](https://www.powerhoof.com/regular-human-basketball)
 - [Genital Jousting](http://freelives.net/games/genital-jousting)

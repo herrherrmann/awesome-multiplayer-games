@@ -17,7 +17,8 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - Quake III: Arena
 - [Quake Live](http://www.quakelive.com)
 - [Xonotic*](http://www.xonotic.org)
-- Unreal Tournament (2004)
+- Unreal Tournament 2004
+- [Portal 2](http://www.thinkwithportals.com)
 - Halo
 - [F.E.A.R. Combat*](https://fearcombat.org)
 - [Left 4 Dead](https://store.steampowered.com/app/500/Left_4_Dead/)

@@ -96,6 +96,7 @@ Awesome games for LAN parties or just local multiplayer sessions with 2-4 player
 - [TowerFall Ascension](http://www.towerfall-game.com)
 - [Awesomenauts*](https://www.awesomenauts.com)
 - [Crawl](http://www.powerhoof.com/crawl)
+- [The Swords of Ditto: Mormo's Curse](https://store.steampowered.com/app/619780/The_Swords_of_Ditto_Mormos_Curse)
 - [Gang Beasts](https://gangbeasts.com)
 - [Brawlhalla*](http://www.brawlhalla.com)
 - [Tooth and Tail](http://www.toothandtailgame.com)

@@ -1,6 +1,12 @@
-# Awesome LAN Party Games
-Awesome games for LAN parties or just local multiplayer sessions with 2-4 players. Games with asterisks are free.  
-*Pull Requests welcome!*
+# Awesome Multiplayer Games
+
+Awesome games for LAN parties or local multiplayer sessions with 2-4 players. Games with asterisks are free.
+
+# Contribute
+
+You can add or edit games by editing the `readme.me` and creating a pull request. Please add a link to the game (to the official website, if possible).
+
+All merged changes will be directly deployed to https://multiplayer.page!
 
 ## 🔫 Shooter
 - Counter-Strike (1.6)

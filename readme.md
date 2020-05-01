@@ -4,7 +4,7 @@ Awesome games for LAN parties or local multiplayer sessions with 2-4 players. Ga
 
 # Contribute
 
-You can add or edit games by editing the `readme.me` and creating a pull request. Please add a link to the game (to the official website, if possible).
+You can add or edit games by editing this `readme.md` and creating a branch (and pull request). Please add a link to the game's official website, if possible.
 
 All merged changes will be directly deployed to https://multiplayer.page!
 

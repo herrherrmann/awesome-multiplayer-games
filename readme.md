@@ -85,6 +85,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - Trackmania Nations Forever*
 - [SuperTuxKart*](https://supertuxkart.net)
 - [Achtung, die Kurve!](https://achtungdiekurve.net)
+- [Trackmania Turbo](https://www.ubisoft.com/en-gb/game/trackmania-turbo)
 
 ## 📺 Local Multiplayer
 - [Enter the Gungeon](http://dodgeroll.com/gungeon)

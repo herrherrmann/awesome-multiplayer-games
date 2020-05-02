@@ -93,6 +93,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Magicka 2](https://www.paradoxplaza.com/magicka-2/MAMA02GSK-MASTER.html)
 - [Overcooked](http://www.ghosttowngames.com/overcooked)
 - [Stikbold!](http://www.stikbold.com)
+- [Unrailed](https://unrailed-game.com)
 - [Unravel Two](https://www.ea.com/games/unravel/unravel-two)
 - [Trine](https://trinegame.com)
 - [Lovers in a Dangerous Spacetime](https://www.loversinadangerousspacetime.com)

@@ -87,6 +87,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Achtung, die Kurve!](https://achtungdiekurve.net)
 
 ## 📺 Local Multiplayer
+- [Duck Game](https://www.adultswim.com/games/duck-game)
 - [Enter the Gungeon](http://dodgeroll.com/gungeon)
 - [Nuclear Throne](http://nuclearthrone.com)
 - [Magicka](https://www.paradoxplaza.com/magicka/MAMA01GSK-MASTER.html)

@@ -76,7 +76,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Project Zomboid](http://www.projectzomboid.com)
 
 ## 🚗 Racing
-- [Rocket League](https://www.rocketleague.com/)
+- [Rocket League](https://www.rocketleague.com)
 - Flatout
 - Flatout 2
 - DiRT 3
@@ -121,6 +121,8 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Oh...Sir!! The Insult Simulator](http://vilemonarch.com/oh-sir-insult)
 - [Hidden in plain Sight](http://store.steampowered.com/app/303590)
 - [Blobby Volley*](http://blobby.sourceforge.net)
+- [Toybox Turbos](https://store.steampowered.com/app/287260/Toybox_Turbos)
+- [Spelunky](https://spelunkyworld.com)
 
 ## Other
 - Worms: Armageddon

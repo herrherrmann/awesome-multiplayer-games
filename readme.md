@@ -76,6 +76,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Project Zomboid](http://www.projectzomboid.com)
 
 ## 🚗 Racing
+- [Blur](https://www.igdb.com/games/blur)
 - [Rocket League](https://www.rocketleague.com)
 - Flatout
 - Flatout 2

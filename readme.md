@@ -94,6 +94,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Magicka](https://www.paradoxplaza.com/magicka/MAMA01GSK-MASTER.html)
 - [Magicka 2](https://www.paradoxplaza.com/magicka-2/MAMA02GSK-MASTER.html)
 - [Overcooked](http://www.ghosttowngames.com/overcooked)
+- [Moving Out](https://smgstudio.com/movingout)
 - [Stikbold!](http://www.stikbold.com)
 - [Unrailed](https://unrailed-game.com)
 - [Unravel Two](https://www.ea.com/games/unravel/unravel-two)
@@ -124,9 +125,10 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Blobby Volley*](http://blobby.sourceforge.net)
 - [Toybox Turbos](https://store.steampowered.com/app/287260/Toybox_Turbos)
 - [Spelunky](https://spelunkyworld.com)
+- [Worms: W.M.D.](https://www.team17.com/games/worms-w-m-d)
+- [Among Us](https://among-us.io)
 
 ## Other
-- Worms: Armageddon
 - [Hedgewars](http://www.hedgewars.org)
 - [TetriNet*](http://tetrinet.info)
 - [Garry's Mod](http://www.garrysmod.com)

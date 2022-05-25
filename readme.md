@@ -129,6 +129,9 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Spelunky](https://spelunkyworld.com)
 - [Worms: W.M.D.](https://www.team17.com/games/worms-w-m-d)
 - [Among Us](https://among-us.io)
+- [Can't Drive This](https://pixel-maniacs.com/cantdrivethis)
+- [Kingdom Two Crowns](https://www.kingdomthegame.com/kingdom-two-crowns)
+- [Pikuniku](https://pikuniku.net/)
 
 ## Other
 - [Hedgewars](http://www.hedgewars.org)

@@ -96,6 +96,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Overcooked](http://www.ghosttowngames.com/overcooked)
 - [Overcooked 2](http://www.ghosttowngames.com/overcooked-2)
 - [Moving Out](https://smgstudio.com/movingout)
+- [Monaco](https://store.steampowered.com/app/113020/Monaco_Whats_Yours_Is_Mine/)
 - [Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes)
 - [Stikbold!](http://www.stikbold.com)
 - [Unrailed](https://unrailed-game.com)

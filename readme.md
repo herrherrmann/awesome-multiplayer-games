@@ -10,7 +10,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 
 ## 🔫 Shooter
 - Counter-Strike (1.6)
-- Counter-Strike: Source
+- [Counter-Strike: Source](https://store.steampowered.com/app/240/CounterStrike_Source/)
 - Counter-Strike: Global Offensive
 - Half-Life 2: Deathmatch
 - Team Fortress 2*
@@ -86,6 +86,16 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [SuperTuxKart*](https://supertuxkart.net/)
 - [Achtung, die Kurve!](https://achtungdiekurve.net/)
 
+## 🎉 Party
+- [5 Second Rule*](https://5second.app/)
+- [Bad Cards*](https://bad.cards/)
+- [Charades*](https://charades.app/)
+- [Codenames](https://codenames.game/)
+- [Friendship Quiz*](https://psycatgames.com/app/friendship-quiz/)
+- [Truth or Drink*](https://truthordrink.app/)
+- [Truth or Dare*](https://psycatgames.com/app/truth-or-dare/)
+- [Skribbl*](https://skribbl.io/)
+- 
 ## 📺 Local Multiplayer
 - [Duck Game](https://www.adultswim.com/games/duck-game)
 - [Enter the Gungeon](https://dodgeroll.com/gungeon/)

@@ -95,7 +95,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Truth or Drink*](https://truthordrink.app/)
 - [Truth or Dare*](https://psycatgames.com/app/truth-or-dare/)
 - [Skribbl*](https://skribbl.io/)
-- 
+
 ## 📺 Local Multiplayer
 - [Duck Game](https://www.adultswim.com/games/duck-game)
 - [Enter the Gungeon](https://dodgeroll.com/gungeon/)

@@ -88,6 +88,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 
 ## 🎉 Party
 - [5 Second Rule*](https://5second.app/)
+- [Jackbox Party Pack](https://www.jackboxgames.com/)
 - [Bad Cards*](https://bad.cards/)
 - [Charades*](https://charades.app/)
 - [Codenames](https://codenames.game/)
@@ -112,6 +113,8 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Unravel Two](https://www.ea.com/en-gb/games/unravel/unravel-two)
 - [Trine](https://trinegame.com/)
 - [Lovers in a Dangerous Spacetime](https://www.loversinadangerousspacetime.com/)
+- [Heave Ho](https://lecartelstudio.fr/heave-ho)
+- [It Takes Two](https://www.ea.com/games/it-takes-two)
 - [Ultimate Chicken Horse](https://www.cleverendeavourgames.com/ultimate-chicken-horse)
 - [Regular Human Basketball](https://www.powerhoof.com/regular-human-basketball/)
 - [Genital Jousting](https://freelives.net/genital-jousting/)

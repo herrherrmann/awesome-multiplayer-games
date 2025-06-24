@@ -63,6 +63,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - Jagged Alliance
 - 0 A.D.*
 - [OpenRA*](https://www.openra.net/)
+- [Tempest Rising*](https://store.steampowered.com/app/1486920/Tempest_Rising/)
 
 ## 🍴 Role-Playing Games
 - Diablo II
@@ -85,6 +86,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - Trackmania Nations Forever*
 - [SuperTuxKart*](https://supertuxkart.net/)
 - [Achtung, die Kurve!](https://achtungdiekurve.net/)
+- [Wreckfest](https://thqnordic.com/games/wreckfest)
 
 ## 🎉 Party
 - [5 Second Rule*](https://5second.app/)

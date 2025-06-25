@@ -63,7 +63,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - Jagged Alliance
 - 0 A.D.*
 - [OpenRA*](https://www.openra.net/)
-- [Tempest Rising*](https://store.steampowered.com/app/1486920/Tempest_Rising/)
+- [Tempest Rising](https://store.steampowered.com/app/1486920/Tempest_Rising/)
 
 ## 🍴 Role-Playing Games
 - Diablo II

@@ -86,7 +86,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - Trackmania Nations Forever*
 - [SuperTuxKart*](https://supertuxkart.net/)
 - [Achtung, die Kurve!](https://achtungdiekurve.net/)
-- [Wreckfest](https://thqnordic.com/games/wreckfest)
+- [Wreckfest](https://wreckfest.thqnordic.com)
 
 ## 🎉 Party
 - [5 Second Rule*](https://5second.app/)
@@ -98,15 +98,16 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Truth or Drink*](https://truthordrink.app/)
 - [Truth or Dare*](https://psycatgames.com/app/truth-or-dare/)
 - [Skribbl*](https://skribbl.io/)
+- [Imposter*](https://imposter.app/)
 
 ## 📺 Local Multiplayer
 - [Duck Game](https://www.adultswim.com/games/duck-game)
-- [Enter the Gungeon](https://dodgeroll.com/gungeon/)
+- [Enter the Gungeon](https://enterthegungeon.com)
 - [Nuclear Throne](http://nuclearthrone.com)
 - [Magicka](https://www.paradoxinteractive.com/games/magicka/about)
 - [Magicka 2](https://www.paradoxinteractive.com/games/magicka-2/about)
-- [Overcooked](https://ghosttowngames.com/overcooked/)
-- [Overcooked 2](https://ghosttowngames.com/overcooked-2/)
+- [Overcooked](https://ghosttowngames.com/game/overcooked/)
+- [Overcooked 2](https://ghosttowngames.com/game/overcooked-2/)
 - [Moving Out](https://www.smgstudio.com/movingout/)
 - [Monaco: What's Yours Is Mine](https://store.steampowered.com/app/113020/Monaco_Whats_Yours_Is_Mine/)
 - [Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/)

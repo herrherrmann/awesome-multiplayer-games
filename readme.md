@@ -81,6 +81,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - Flatout
 - Flatout 2
 - DiRT 3
+- DiRT: Showdown
 - [Live for Speed](https://www.lfs.net/)
 - [Armagetron Advanced*](https://www.armagetronad.org/)
 - Trackmania Nations Forever*
@@ -148,6 +149,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Can't Drive This](https://pixel-maniacs.com/cantdrivethis)
 - [Kingdom Two Crowns](https://www.kingdomthegame.com/kingdom-two-crowns)
 - [Pikuniku](https://pikuniku.net/)
+- [Wingspan](https://www.monstercouch.com/wingspan/)
 
 ## Other
 - [Hedgewars](https://www.hedgewars.org/)

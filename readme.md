@@ -157,3 +157,4 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - Minecraft
 - [Factorio](https://www.factorio.com/)
 - [Sea of Thieves](https://www.seaofthieves.com/)
+- [Zero](https://0.space) — browser-native multiplayer voxel sandbox, no install or signup

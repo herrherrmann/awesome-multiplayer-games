@@ -74,6 +74,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - Heroes of Might & Magic 5
 - Freelancer
 - [Project Zomboid](https://projectzomboid.com/)
+- [Veilbound](https://veilbound.gg) - Free 3D browser MMORPG with nine classes, dungeons, guilds, and PvP duels, no download required.
 
 ## 🚗 Racing
 - [Blur](https://www.igdb.com/games/blur)

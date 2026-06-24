@@ -157,3 +157,41 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - Minecraft
 - [Factorio](https://www.factorio.com/)
 - [Sea of Thieves](https://www.seaofthieves.com/)
+
+## Community Resource Additions
+
+<!-- Added 2026-06-24 by zlc000190 -->
+- [Meccha Chameleon Art](https://mecchachameleon.art/) — Fan-made browser companion for Meccha Chameleon, a paint-based hide-and-seek Steam game. 50+ hiding spot atlas with color analysis, bilingual (EN/中文). GitHub awesome list: https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot
+
+# Awesome Multiplayer Games
+
+A curated list of awesome multiplayer games, fan-made resources, and community atlases.
+
+## Games
+
+### Hide and Seek / Camouflage
+
+- [Meccha Chameleon Art](https://mecchachameleon.art/) — Fan-made browser companion for Meccha Chameleon, a paint-based hide-and-seek Steam game. 50+ hiding spot atlas with color analysis, bilingual (EN/中文).
+
+### Resources
+
+- GitHub awesome list: https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot
+
+---
+
+Fan-made, unofficial. Meccha Chameleon is © LEMORION.
+
+## Hide-and-Seek / Camouflage
+
+- [Meccha Chameleon Art](https://mecchachameleon.art/) — Fan-made browser companion for Meccha Chameleon, a paint-based hide-and-seek Steam game. 50+ hiding spot atlas with color analysis, bilingual (EN/中文).
+  - GitHub awesome list: https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot
+
+## Hide-and-Seek / Camouflage
+
+- [Meccha Chameleon Art](https://mecchachameleon.art/) — Fan-made browser companion for Meccha Chameleon, a paint-based hide-and-seek Steam game. 50+ hiding spot atlas with color analysis, bilingual (EN/中文).
+  - GitHub awesome list: https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot
+
+## Hide-and-Seek / Camouflage
+
+- [Meccha Chameleon Art](https://mecchachameleon.art/) — Fan-made browser companion for Meccha Chameleon, a paint-based hide-and-seek Steam game. 50+ hiding spot atlas with color analysis, bilingual (EN/中文).
+  - GitHub awesome list: https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot

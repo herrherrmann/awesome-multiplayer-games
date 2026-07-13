@@ -100,6 +100,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Truth or Dare*](https://psycatgames.com/app/truth-or-dare/)
 - [Skribbl*](https://skribbl.io/)
 - [Imposter*](https://imposter.app/)
+- [Imposter Game Online*](https://impostergameonline.app/)
 
 ## 📺 Local Multiplayer
 - [Duck Game](https://www.adultswim.com/games/duck-game)

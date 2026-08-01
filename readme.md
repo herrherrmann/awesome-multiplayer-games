@@ -40,9 +40,10 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Fistful of Frags*](https://store.steampowered.com/app/265630/Fistful_of_Frags/)
 - [Openarena*](http://www.openarena.ws)
 - [TeeWorlds*](https://www.teeworlds.com/)
+- [Perfect Heist 2](https://store.steampowered.com/app/1521580/Perfect_Heist_2/)
 
 ## ♔ Strategy
-- Age of Empires II (HD)
+- Age of Empires II (Definitive Edition)
 - Warcraft III
     - Classic Maps
     - Tower Defense Maps
@@ -54,15 +55,18 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - Dawn of War
 - Command and Conquer
 - [SpringRTS*](https://springrts.com/)
+    - [Beyond All Reason*](https://www.beyondallreason.info/)
     - [Evolution RTS*](https://www.evolutionrts.info/)
     - [Spring: 1944*](https://spring1944.net/)
     - [Zero-K*](https://zero-k.info/)    
 - Supreme Commander
-- Stronghold
+- Stronghold Definitive Edition
 - Total Annihilation
 - Jagged Alliance
 - 0 A.D.*
 - [OpenRA*](https://www.openra.net/)
+    - [Combined Arms*](https://www.moddb.com/mods/command-conquer-combined-arms)
+    - [YMCA*](https://www.moddb.com/mods/you-must-construct-additional1)
 - [Tempest Rising](https://store.steampowered.com/app/1486920/Tempest_Rising/)
 
 ## 🍴 Role-Playing Games

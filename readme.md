@@ -101,6 +101,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Codenames](https://codenames.game/)
 - [Friendship Quiz*](https://psycatgames.com/app/friendship-quiz/)
 - [Truth or Drink*](https://truthordrink.app/)
+- [Kings Cup Online*](https://www.onlinekingscup.com/)
 - [Truth or Dare*](https://psycatgames.com/app/truth-or-dare/)
 - [Skribbl*](https://skribbl.io/)
 - [Imposter*](https://imposter.app/)

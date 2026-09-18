@@ -97,6 +97,7 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [5 Second Rule*](https://5second.app/)
 - [Jackbox Party Pack](https://www.jackboxgames.com/)
 - [Bad Cards*](https://bad.cards/)
+- [Parlour*](https://parlour.cards)
 - [Charades*](https://charades.app/)
 - [Codenames](https://codenames.game/)
 - [Friendship Quiz*](https://psycatgames.com/app/friendship-quiz/)

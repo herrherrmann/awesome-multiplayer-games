@@ -1,0 +1,1 @@
+As the readme describes, this is a list of **awesome games for LAN parties or local multiplayer sessions with 2-4 players**. Let’s focus on that. Please do not add any online-only games, browser games, AI-written games and alike.
